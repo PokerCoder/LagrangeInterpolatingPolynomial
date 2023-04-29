@@ -48,7 +48,3 @@ Result is -> 6.5
 
 - `lagrange`: Main function for calculating the Lagrange interpolation result.
 - `kroneckerDelta`: Auxiliary function used in the `lagrange` function to calculate the product of the Kronecker delta terms.
-
-## License
-
-This project is released under the MIT License.
